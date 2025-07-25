@@ -1,7 +1,7 @@
 # 🛣️ Roadmap Java - 2025
 
 ## 📍 1. Fundamentos da Linguagem Java
-- Tipos primitivos, variáveis, operadores  
+- [Tipos primitivos, variáveis, operadores](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/tiposPrimitivosVariaveisOperadores/src/Main.java)
 - Estruturas de controle (`if`, `switch`, `while`, `for`)  
 - Arrays e Strings  
 - Métodos e Escopo  
