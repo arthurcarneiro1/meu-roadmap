@@ -13,7 +13,7 @@ Aqui você encontrará **flashcards no formato Anki**, ideais para revisar e fix
 - [Tipos primitivos, variáveis, operadores](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/tiposPrimitivosVariaveisOperadores/src/Main.java)
 - [Estruturas de controle (`if`, `switch`, `while`, `for`)](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/estruturasDeControle/src/Main.java)
 - [Arrays e Strings](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/arraysStrings/src/Main.java)  
-- Métodos e Escopo  
+- [Métodos e Escopo](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/metodosEscopo/src/Main.java)  
 - Classes, Objetos, Encapsulamento  
 - Construtores  
 - Modificadores de acesso (`public`, `private`, `protected`)  
