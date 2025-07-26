@@ -1,6 +1,15 @@
 # 🛣️ Roadmap Java - 2025
+## 📘 Objetivo do Repositório
 
-## 📍 1. Fundamentos da Linguagem Java
+Este repositório tem o intuito de documentar meu conhecimento e ajudar desenvolvedores que estão iniciando na área. Ele está dividido em duas partes principais:
+
+### 🔹 1. Conteúdo Explicativo com Código  
+Nesta seção, o conteúdo é apresentado por meio de **códigos comentados**, organizados de forma prática e direta para facilitar o entendimento.
+
+### 🔹 2. Flashcards (Anki) para Fixação  
+Aqui você encontrará **flashcards no formato Anki**, ideais para revisar e fixar os principais conceitos estudados de forma eficiente.
+
+## 📍 1. Fundamentos da Linguagem Java -- [Dowloand anki]()
 - [Tipos primitivos, variáveis, operadores](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/tiposPrimitivosVariaveisOperadores/src/Main.java)
 - [Estruturas de controle (`if`, `switch`, `while`, `for`)](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/estruturasDeControle/src/Main.java)
 - [Arrays e Strings](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/arraysStrings/src/Main.java)  
