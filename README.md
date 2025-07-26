@@ -2,7 +2,7 @@
 
 ## 📍 1. Fundamentos da Linguagem Java
 - [Tipos primitivos, variáveis, operadores](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/tiposPrimitivosVariaveisOperadores/src/Main.java)
-- Estruturas de controle (`if`, `switch`, `while`, `for`)  
+- [Estruturas de controle (`if`, `switch`, `while`, `for`)](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/estruturasDeControle/src/Main.java)
 - Arrays e Strings  
 - Métodos e Escopo  
 - Classes, Objetos, Encapsulamento  
