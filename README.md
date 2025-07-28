@@ -9,7 +9,7 @@ Nesta seção, o conteúdo é apresentado por meio de **códigos comentados**, o
 ### 🔹 2. Flashcards (Anki) para Fixação  
 Aqui você encontrará **flashcards no formato Anki**, ideais para revisar e fixar os principais conceitos estudados de forma eficiente.
 
-## 📍 1. Fundamentos da Linguagem Java -- [Dowloand anki]()
+## 📍 1. Fundamentos da Linguagem Java -- [Dowloand anki](https://drive.google.com/file/d/16rP0mxQLRixRiN-OFyg3Ym7nD3FgtYZ0/view?usp=drive_link)
 - [Tipos primitivos, variáveis, operadores](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/tiposPrimitivosVariaveisOperadores/src/Main.java)
 - [Estruturas de controle (`if`, `switch`, `while`, `for`)](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/estruturasDeControle/src/Main.java)
 - [Arrays e Strings](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/arraysStrings/src/Main.java)  
