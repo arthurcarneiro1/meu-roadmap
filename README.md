@@ -14,10 +14,10 @@ Aqui você encontrará **flashcards no formato Anki**, ideais para revisar e fix
 - [Estruturas de controle (`if`, `switch`, `while`, `for`)](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/estruturasDeControle/src/Main.java)
 - [Arrays e Strings](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/arraysStrings/src/Main.java)  
 - [Métodos e Escopo](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/metodosEscopo/src/Main.java)  
-- Classes, Objetos, Encapsulamento  
-- Construtores  
-- Modificadores de acesso (`public`, `private`, `protected`)  
-- Sobrecarga de métodos  
+- [Classes, Objetos, Encapsulamento](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/classesObjetosEncapsulamento/src/Main.java)  
+- [Construtores](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/construtores/src/Main.java)  
+- [Modificadores de acesso](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/modificadoresDeAcesso/src/Main.java) (`public`, `private`, `protected`)  
+- [Sobrecarga de métodos](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/sobrecargaDeMetodos/src/Main.java)  
 
 ---
 
