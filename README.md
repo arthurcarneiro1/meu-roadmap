@@ -1,107 +1,92 @@
-# 🛣️ Roadmap Java - 2025
-## 📘 Objetivo do Repositório
+---
 
-Este repositório tem o intuito de documentar meu conhecimento e ajudar desenvolvedores que estão iniciando na área. Ele está dividido em duas partes principais:
+# ☕ Roadmap Java — Do Básico ao Avançado
 
-### 🔹 1. Conteúdo Explicativo com Código  
-Nesta seção, o conteúdo é apresentado por meio de **códigos comentados**, organizados de forma prática e direta para facilitar o entendimento.
-
-### 🔹 2. Flashcards (Anki) para Fixação  
-Aqui você encontrará **flashcards no formato Anki**, ideais para revisar e fixar os principais conceitos estudados de forma eficiente.
-
-## 📍 1. Fundamentos da Linguagem Java -- [Dowloand anki](https://drive.google.com/file/d/16rP0mxQLRixRiN-OFyg3Ym7nD3FgtYZ0/view?usp=drive_link)
-- [Tipos primitivos, variáveis, operadores](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/tiposPrimitivosVariaveisOperadores/src/Main.java)
-- [Estruturas de controle (`if`, `switch`, `while`, `for`)](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/estruturasDeControle/src/Main.java)
-- [Arrays e Strings](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/arraysStrings/src/Main.java)  
-- [Métodos e Escopo](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/metodosEscopo/src/Main.java)  
-- [Classes, Objetos, Encapsulamento](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/classesObjetosEncapsulamento/src/Main.java)  
-- [Construtores](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/construtores/src/Main.java)  
-- [Modificadores de acesso](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/modificadoresDeAcesso/src/Main.java) (`public`, `private`, `protected`)  
-- [Sobrecarga de métodos](https://github.com/arthurcarneiro1/meu-roadmap/blob/main/fundamentosDaLinguagemJava/sobrecargaDeMetodos/src/Main.java)  
+Bem-vindo ao meu **roadmap de estudos em Java**, um guia prático e organizado para dominar a linguagem do zero até conceitos avançados.
+Cada módulo representa uma etapa da minha jornada, com exemplos e projetos aplicados.
 
 ---
 
-## 📍 2. Programação Orientada a Objetos (POO)
-- Herança  
-- Polimorfismo  
-- Abstração  
-- Interfaces  
-- Classes abstratas  
-- `this`, `super`  
-- `instanceof`, casting de objetos  
+## 🧭 Estrutura do Roadmap
+
+### 🔰 Fundamentos
+
+1. **Introdução ao Java**
+2. **Tipos Primitivos**
+3. **Operadores**
+4. **Estrutura Condicional**
+5. **Estrutura de Repetição**
+6. **Arrays**
 
 ---
 
-## 📍 3. Boas Práticas e Padrões
-- Princípios SOLID  
-- Clean Code  
-- DRY, KISS, YAGNI  
-- Tratamento de exceções  
-- JavaDoc  
-- Organização de pacotes  
+### 💡 Programação Orientada a Objetos (POO)
+
+7. **Orientação a Objeto**
+8. **Exceções**
+9. **Classes Utilitárias**
+10. **Collections**
+11. **Generics**
+12. **Classes Internas**
 
 ---
 
-## 📍 4. Ferramentas Essenciais
-- IDEs: **IntelliJ IDEA**, **Eclipse** ou **VS Code**  
-- Build Tools: **Maven** ou **Gradle**  
-- Gerenciamento de dependências  
-- Sistema de controle de versão: **Git**  
+### ⚙️ Recursos Avançados
+
+13. **Parametrizando**
+14. **Lambda Expressions**
+15. **Method Reference**
+16. **Optional**
+17. **Streams**
 
 ---
 
-## 📍 5. Estruturas de Dados e Coleções
-- `List`, `Set`, `Map`  
-- `ArrayList`, `LinkedList`, `HashMap`, `TreeSet`  
-- Generics  
-- `Comparable` vs `Comparator`  
+### 🚀 Tópicos Avançados
+
+18. **Threads**
+19. **Concorrência**
+20. **Padrões de Projeto**
+21. **JDBC (Conexão com Banco de Dados)**
+22. **Testes Unitários**
+23. **Atualizando o JDK**
+24. **Record Class**
+25. **Pattern Matching for `instanceof`**
 
 ---
 
-## 📍 6. Java Avançado
-- Enums  
-- Lambdas e Stream API  
-- `Optional`  
-- Functional Interfaces  
-- Manipulação de arquivos (`IO`/`NIO`)  
-- Threads e Concorrência (`Runnable`, `ExecutorService`)  
-- Reflection API  
-- Anotações  
+## 🧱 Objetivo
+
+Este roadmap foi criado para consolidar os conceitos essenciais da linguagem Java, preparando para:
+
+* Desenvolvimento backend profissional
+* Criação de aplicações robustas e escaláveis
+* Preparação para frameworks como **Spring** e **Jakarta EE**
 
 ---
 
-## 📍 7. Banco de Dados
-- JDBC (Java Database Connectivity)  
-- MySQL / PostgreSQL  
-- H2 para testes locais  
-- ORM com JPA e Hibernate  
-- Consultas com JPQL e Criteria API  
+## 🛠️ Tecnologias e Ferramentas
+
+* **Java 17+**
+* **IntelliJ IDEA / VS Code**
+* **JUnit 5**
+* **Maven / Gradle**
+* **Git & GitHub**
 
 ---
 
-## 📍 8. Desenvolvimento Web com Java
-- Java Servlet e JSP (base)  
-- **Spring Framework**:  
-  - Spring Core (IoC/DI)  
-  - Spring Boot (configuração rápida)  
-  - Spring MVC (REST APIs)  
-  - Spring Data JPA  
-  - Spring Security (autenticação/autorização)  
-- Postman para testes de API  
+---
+
+## 💬 Contribuições
+
+Sinta-se à vontade para sugerir melhorias, abrir *issues* ou enviar *pull requests*!
+Seu feedback ajuda a aprimorar este roadmap e torná-lo útil para mais desenvolvedores.
 
 ---
 
-## 📍 9. Testes
-- JUnit (testes unitários)  
-- Mockito (mocks)  
-- Testes de integração com Spring Test  
-- Testes automatizados de API com RestAssured  
+## ⭐ Contato
+
+📧 **Arthur — Desenvolvedor C# e entusiasta Java**
+💻 [GitHub](https://github.com/arthurcarneiro1)
+💼 [LinkedIn](https://www.linkedin.com/in/carneirodev2002/)
 
 ---
-
-## 📍 10. Projetos Práticos
-- CRUD com Spring Boot + JPA  
-- API REST para cadastro de produtos/usuários  
-- Sistema de login com autenticação JWT  
-- Integração com banco relacional  
-- Documentação com Swagger  
