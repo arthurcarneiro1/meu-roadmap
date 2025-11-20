@@ -5,7 +5,9 @@
 ![Image](https://github.com/user-attachments/assets/cd87a02e-675e-4f3f-a96e-c28b6066fa25)
 
 <p align="center">
-Welcome to Roadmap & Java 🚀 — meu projeto pessoal inspirado na playlist gratuita de estudos do DevDojo (sou super fã 😎). Aqui eu rankeio a dificuldade dos conteúdos usando uma mecânica divertida baseada em Dungeons & Dragons 🎲
+Welcome to Roadmap & Java 🚀 — meu projeto pessoal inspirado na <a href="https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=D904nDYrtb32pY2A" target="_blank"><strong> playlist gratuita (Maratona Java Virado no Jiraya)</strong></a> de estudos do 
+<a href="https://www.youtube.com/@DevDojoBrasil" target="_blank"><strong>DevDojo</strong></a> (sou super fã 😎). 
+Aqui eu rankeio a dificuldade dos conteúdos usando uma mecânica divertida baseada em Dungeons & Dragons 🎲
 </p>
 <p align="center">
 Este repositório organiza conteúdos de estudo por nível de dificuldade. Para isso, utilizei como base rankings de vários Devs, além das minhas próprias notas no Obsidian, garantindo um material direto, de qualidade e pronto para fortalecer seu aprendizado.
