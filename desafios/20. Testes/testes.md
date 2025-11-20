@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Testes em Java**, focando em **JUnit** e boas práticas, do simples ao mais avançado:
 
 ---
 
@@ -38,8 +37,4 @@ Perfeito! Aqui vão **3 desafios lógicos sobre Testes em Java**, focando em **J
 **Pergunta lógica:** Como usar diferentes assertions (`assertEquals`, `assertTrue`, `assertNotNull`) para validar comportamentos complexos?
 
 ---
-
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Testes em Java, usando **JUnit moderno** e boas práticas.
-
-Quer que eu faça?
 

@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre JDBC em Java**, do simples ao mais avançado:
 
 ---
 
@@ -35,8 +34,4 @@ Perfeito! Aqui vão **3 desafios lógicos sobre JDBC em Java**, do simples ao ma
 **Pergunta lógica:** Por que é importante usar `PreparedStatement` ao invés de concatenar strings em queries SQL?
 
 ---
-
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de JDBC em Java, mostrando boas práticas e formas modernas de se conectar e manipular dados no banco.
-
-Quer que eu faça?
 

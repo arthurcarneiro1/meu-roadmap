@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Concorrência em Java**, do mais simples ao mais avançado, focando em execução paralela e controle de threads:
 
 ---
 
@@ -36,8 +35,3 @@ Perfeito! Aqui vão **3 desafios lógicos sobre Concorrência em Java**, do mais
 **Pergunta lógica:** Como `ReentrantLock` oferece mais controle sobre exclusão mútua do que `synchronized`, permitindo maior flexibilidade em programas concorrentes?
 
 ---
-
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Concorrência em Java, mostrando boas práticas e formas modernas de trabalhar com threads e sincronização.
-
-Quer que eu faça?
-
