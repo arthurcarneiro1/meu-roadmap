@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Coleções em Java** (`List`, `Set`, `Map`), do simples ao mais desafiador:
 
 ---
 
@@ -38,7 +37,4 @@ Perfeito! Aqui vão **3 desafios lógicos sobre Coleções em Java** (`List`, `S
 
 ---
 
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Coleções em Java, mostrando boas práticas e formas modernas de percorrer e manipular dados.
-
-Quer que eu faça?
 

@@ -1,4 +1,3 @@
-Beleza! Aqui vão **3 desafios lógicos sobre operadores em Java**, também com dificuldade crescente:
 
 ---
 
@@ -51,7 +50,4 @@ int x = 5;
 
 ---
 
-Se você quiser, posso criar **as soluções comentadas para esses 3 desafios**, mostrando a forma mais clara e moderna de resolver cada um.
-
-Quer que eu faça isso?
 

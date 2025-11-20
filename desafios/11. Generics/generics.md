@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Generics em Java**, do simples ao mais avançado:
 
 ---
 
@@ -36,7 +35,4 @@ Crie um **método genérico** chamado `imprimirArray` que receba um array de qua
 
 ---
 
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Generics em Java, de forma moderna e clara para estudo.
-
-Quer que eu faça?
 

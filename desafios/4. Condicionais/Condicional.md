@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre condicionais em Java**, do mais simples ao mais desafiador:
 
 ---
 
@@ -59,7 +58,5 @@ Crie uma condicional que imprima:
 
 ---
 
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios, de forma clara e didática para estudo.
 
-Quer que eu faça?
 

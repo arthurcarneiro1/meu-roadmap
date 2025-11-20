@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Streams em Java**, do mais simples ao mais avançado:
 
 ---
 
@@ -52,7 +51,4 @@ List<String> nomes = List.of("Ana", "Bruno", "Carlos", "Beatriz");
 
 ---
 
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Streams em Java, mostrando o jeito mais moderno e funcional de resolver.
-
-Quer que eu faça?
 

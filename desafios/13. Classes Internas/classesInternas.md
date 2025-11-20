@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Classes Internas (Inner Classes) em Java**, do mais simples ao mais avançado:
 
 ---
 
@@ -39,7 +38,5 @@ Crie uma classe `Carro` com uma inner class **privada** `Motor`.
 
 ---
 
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Classes Internas em Java, de forma clara e moderna.
 
-Quer que eu faça?
 

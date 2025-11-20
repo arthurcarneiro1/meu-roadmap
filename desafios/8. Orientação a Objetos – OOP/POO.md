@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Programação Orientada a Objetos (POO) em Java**, do simples ao mais desafiador:
 
 ---
 
@@ -48,7 +47,5 @@ private double saldo;
 
 ---
 
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de POO em Java, mostrando boas práticas de codificação.
 
-Quer que eu faça?
 

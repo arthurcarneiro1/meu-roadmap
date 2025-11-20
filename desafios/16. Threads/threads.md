@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Threads em Java**, do mais simples ao mais avançado:
 
 ---
 
@@ -35,8 +34,4 @@ Perfeito! Aqui vão **3 desafios lógicos sobre Threads em Java**, do mais simpl
 **Pergunta lógica:** Por que é importante sincronizar métodos em ambientes multithread para evitar condições de corrida?
 
 ---
-
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Threads em Java, mostrando o jeito mais moderno e seguro de trabalhar com concorrência.
-
-Quer que eu faça?
 

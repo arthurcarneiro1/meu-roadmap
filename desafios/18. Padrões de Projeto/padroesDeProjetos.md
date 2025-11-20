@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Padrões de Projeto (Design Patterns) em Java**, do mais simples ao mais avançado:
 
 ---
 
@@ -40,7 +39,4 @@ Perfeito! Aqui vão **3 desafios lógicos sobre Padrões de Projeto (Design Patt
 
 ---
 
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Padrões de Projeto em Java, mostrando a forma mais clara e moderna de implementar cada padrão.
-
-Quer que eu faça?
 

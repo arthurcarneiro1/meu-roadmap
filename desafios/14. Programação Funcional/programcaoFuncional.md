@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Programação Funcional em Java**, usando **Streams, lambdas e funções de ordem superior**, do mais simples ao mais avançado:
 
 ---
 
@@ -50,8 +49,3 @@ List<Double> precos = List.of(10.0, 20.0, 30.0);
 **Pergunta lógica:** Como combinar transformação (`map`) e agregação (`reduce`) de forma funcional?
 
 ---
-
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Programação Funcional em Java, usando o jeito mais moderno e funcional.
-
-Quer que eu faça?
-

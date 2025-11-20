@@ -1,4 +1,4 @@
-Perfeito! Vamos para **3 desafios lógicos sobre classes utilitárias em Java** (como `Math`, `String` e `Arrays`), do mais simples ao mais desafiador:
+
 
 ---
 

@@ -1,4 +1,4 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Arrays em Java**, do simples ao mais desafiador:
+
 
 ---
 
@@ -47,7 +47,5 @@ Encontre o **maior valor** do array e imprima-o.
 
 ---
 
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Arrays em Java, de forma clara e didática para estudo.
 
-Quer que eu faça?
 

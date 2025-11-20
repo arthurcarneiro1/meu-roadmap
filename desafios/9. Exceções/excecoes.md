@@ -1,4 +1,3 @@
-Perfeito! Aqui vão **3 desafios lógicos sobre Exceções em Java**, do mais simples ao mais desafiador:
 
 ---
 
@@ -44,8 +43,3 @@ Crie um método `verificarIdade(int idade)` que:
 **Pergunta lógica:** Como lançar exceções personalizadas para validar condições de negócio?
 
 ---
-
-Se quiser, posso criar **as soluções prontas e comentadas** desses 3 desafios de Exceções em Java, mostrando a forma mais clara e moderna de lidar com erros.
-
-Quer que eu faça?
-

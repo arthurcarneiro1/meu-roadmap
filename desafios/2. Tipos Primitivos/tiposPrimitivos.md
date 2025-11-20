@@ -1,4 +1,4 @@
-Perfeito! Aqui vão **3 desafios lógicos** sobre **tipos primitivos em Java**, com dificuldade crescente:
+
 
 ---
 
@@ -43,8 +43,4 @@ Crie um `boolean` que armazene se `f == d`.
 **Pergunta lógica:** Por que comparar `float` com `double` diretamente pode gerar `false` mesmo que visualmente os números sejam iguais?
 
 ---
-
-Se você quiser, posso criar **as soluções corretas e explicadas** para esses 3 desafios, de forma que fique bem didática.
-
-Quer que eu faça isso?
 
