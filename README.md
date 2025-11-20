@@ -61,7 +61,6 @@ Este repositório organiza conteúdos de estudo por nível de dificuldade. Para 
 9. <strong>Exceções</strong><br>
 10. <strong>Coleções (List, Set, Map)</strong><br>
 11. <strong>Generics</strong><br>
-12. <strong>Streams</strong>
 </p>
 
 
