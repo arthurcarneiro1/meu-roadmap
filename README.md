@@ -24,9 +24,11 @@ Este repositório organiza conteúdos de estudo por nível de dificuldade. Para 
 <img width="1280" height="853" alt="Image" src="https://github.com/user-attachments/assets/05c80f78-1199-4854-8d3a-56d59a8c2f6e" />
 
 
-1. **Introdução ao Java**
-2. **Tipos Primitivos**
-3. **Operadores**
+<p align="center">
+1. <strong>Introdução ao Java</strong><br>
+2. <strong>Tipos Primitivos</strong><br>
+3. <strong>Operadores</strong>
+</p>
 
 ---
 <p align="center">
@@ -36,12 +38,13 @@ Este repositório organiza conteúdos de estudo por nível de dificuldade. Para 
 
 <img width="1280" height="853" alt="Image" src="https://github.com/user-attachments/assets/88665648-6f8c-4b1d-beef-d27c3b69f829" />
 
-7. **Orientação a Objeto**
-8. **Exceções**
-9. **Classes Utilitárias**
-10. **Collections**
-11. **Generics**
-12. **Classes Internas**
+<p align="center">
+4. <strong>Condicionais</strong><br>
+5. <strong>Repetição (for/while)</strong><br>
+6. <strong>Classes Utilitárias</strong><br>
+7. <strong>Arrays e Matrizes</strong>
+</p>
+
 
 ---
 <p align="center">
@@ -51,11 +54,14 @@ Este repositório organiza conteúdos de estudo por nível de dificuldade. Para 
 
 <img width="1280" height="853" alt="Image" src="https://github.com/user-attachments/assets/35f6ecc2-70df-4739-8619-90b334746768" />
 
-13. **Parametrizando**
-14. **Lambda Expressions**
-15. **Method Reference**
-16. **Optional**
-17. **Streams**
+<p align="center">
+8. <strong>Orientação a Objetos – OOP</strong><br>
+9. <strong>Exceções</strong><br>
+10. <strong>Coleções (List, Set, Map)</strong><br>
+11. <strong>Generics</strong><br>
+12. <strong>Streams</strong>
+</p>
+
 
 ---
 <p align="center">
@@ -66,12 +72,14 @@ Este repositório organiza conteúdos de estudo por nível de dificuldade. Para 
 
 <img width="1280" height="853" alt="Image" src="https://github.com/user-attachments/assets/43cee558-6730-4687-8be9-b5fc3c427587" />
 
-18. **Threads**
-19. **Concorrência**
-20. **Padrões de Projeto**
-21. **JDBC (Conexão com Banco de Dados)**
-22. **Testes Unitários**
+<p align="center">
+13. <strong>Classes Internas</strong><br>
+14. <strong>Programação Funcional</strong><br>
+15. <strong>Streams</strong>
+</p>
 
+
+---
 <p align="center">
 ⭐⭐⭐⭐⭐
 </p>
@@ -79,11 +87,17 @@ Este repositório organiza conteúdos de estudo por nível de dificuldade. Para 
 
 
 <img width="1280" height="853" alt="Image" src="https://github.com/user-attachments/assets/79b72b43-cb9e-4fdb-92a3-4990c4da3e9b" />
+ 
+<p align="center">
+16. <strong>Threads</strong><br>
+17. <strong>Concorrência</strong><br>
+18. <strong>Padrões de Projeto</strong><br>
+19. <strong>JDBC</strong><br>
+20. <strong>Testes</strong><br>
+21. <strong>Recursos Modernos</strong>
+</p>
+ 
 
-23. 
-24. **Atualizando o JDK**
-25. **Record Class**
-26. **Pattern Matching for `instanceof`**
 
 ---
 
@@ -118,7 +132,7 @@ Seu feedback ajuda a aprimorar este roadmap e torná-lo útil para mais desenvol
 
 ## ⭐ Contato
 
-📧 **Arthur — Desenvolvedor C# e entusiasta Java**
+📧 **Arthur — Desenvolvedor Java**
 💻 [GitHub](https://github.com/arthurcarneiro1)
 💼 [LinkedIn](https://www.linkedin.com/in/carneirodev2002/)
 
