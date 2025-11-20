@@ -1,0 +1,32 @@
+Classes Internas Java: O que é uma classe interna?;Classe definida dentro de outra classe
+Classes Internas Java: Cite os tipos de classes internas.;Membro, Local, Anônima, Estática
+Classes Internas Java: O que é classe interna membro?;Classe declarada dentro da outra classe, mas fora de métodos
+Classes Internas Java: O que é classe interna local?;Classe declarada dentro de um método
+Classes Internas Java: O que é classe interna anônima?;Classe sem nome criada na hora da instância
+Classes Internas Java: O que é classe interna estática?;Classe interna declarada com static, não depende da instância
+Classes Internas Java: Como criar instância de classe interna membro?;Outer.Inner inner = outer.new Inner();
+Classes Internas Java: Como criar instância de classe interna estática?;Outer.Inner inner = new Outer.Inner();
+Classes Internas Java: Como acessar membros da classe externa?;Usar Outer.this.atributo
+Classes Internas Java: Classes internas podem acessar atributos privados da externa?;Sim
+Classes Internas Java: Classes internas estáticas podem acessar atributos não estáticos da externa?;Não
+Classes Internas Java: Como criar classe anônima que implementa interface?;new Interface() { /* métodos */ };
+Classes Internas Java: Como criar classe anônima que estende classe?;new Classe() { /* métodos */ };
+Classes Internas Java: Qual vantagem das classes internas?;Encapsulamento e organização de código
+Classes Internas Java: Como acessar método da classe externa em interna?;Outer.this.metodo()
+Classes Internas Java: Classes internas podem ter construtor?;Sim, exceto anônimas
+Classes Internas Java: Classes internas podem ser privadas?;Sim, visibilidade pode ser controlada
+Classes Internas Java: Classes internas locais podem acessar variáveis locais finais?;Sim, ou efetivamente finais
+Classes Internas Java: Classes internas anônimas podem ter nome?;Não
+Classes Internas Java: Classes internas estáticas podem ter instâncias próprias?;Sim
+Classes Internas Java: Qual palavra-chave define classe interna estática?;static
+Classes Internas Java: Como diferenciar classe interna de classe externa?;Classe interna está dentro da outra classe
+Classes Internas Java: Classes internas podem implementar interfaces?;Sim
+Classes Internas Java: Classes internas podem ser abstratas?;Sim
+Classes Internas Java: Classes internas podem ser final?;Sim
+Classes Internas Java: Qual pacote padrão para classes internas?;Não há, são parte da classe externa
+Classes Internas Java: Como declarar classe interna privada?;private class Inner {}
+Classes Internas Java: Como declarar classe interna protegida?;protected class Inner {}
+Classes Internas Java: Como declarar classe interna pública?;public class Inner {}
+Classes Internas Java: Classes internas podem lançar exceções?;Sim, como qualquer classe
+Classes Internas Java: Classes internas podem ser genéricas?;Sim, class Inner<T> {}
+

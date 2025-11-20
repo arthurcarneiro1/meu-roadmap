@@ -1,0 +1,28 @@
+Tipos Primitivos: Qual o tamanho de um byte em Java?;8 bits
+Tipos Primitivos: Qual o tamanho de um short em Java?;16 bits
+Tipos Primitivos: Qual o tamanho de um int em Java?;32 bits
+Tipos Primitivos: Qual o tamanho de um long em Java?;64 bits
+Tipos Primitivos: Qual o tamanho de um float em Java?;32 bits
+Tipos Primitivos: Qual o tamanho de um double em Java?;64 bits
+Tipos Primitivos: Qual tipo armazena true ou false?;boolean
+Tipos Primitivos: Qual tipo armazena um único caractere?;char
+Tipos Primitivos: Qual valor padrão de int?;0
+Tipos Primitivos: Qual valor padrão de boolean?;false
+Tipos Primitivos: Qual valor padrão de char?;\u0000
+Tipos Primitivos: Qual valor padrão de float?;0.0f
+Tipos Primitivos: Qual valor padrão de double?;0.0d
+Tipos Primitivos: O que é casting em Java?;Conversão de um tipo primitivo para outro
+Tipos Primitivos: O que é widening?;Conversão automática de tipo menor para maior
+Tipos Primitivos: O que é narrowing?;Conversão explícita de tipo maior para menor
+Tipos Primitivos: Qual a diferença entre float e double?;double tem maior precisão e ocupa mais memória
+Tipos Primitivos: Qual tipo usar para grandes números inteiros?;long
+Tipos Primitivos: Qual tipo usar para números decimais precisos?;double
+Tipos Primitivos: Qual tipo usar para cálculos booleanos?;boolean
+Tipos Primitivos: Como declarar um float literal?;float f = 3.14f;
+Tipos Primitivos: Como declarar um double literal?;double d = 3.14;
+Tipos Primitivos: Como declarar um long literal?;long l = 100000L;
+Tipos Primitivos: O que acontece se atribuir um valor fora do limite de um tipo?;Overflow ou erro de compilação
+Tipos Primitivos: Qual tipo ocupa mais memória, int ou long?;long
+Tipos Primitivos: Qual tipo ocupa menos memória, byte ou short?;byte
+Tipos Primitivos: Qual tipo usar para variáveis de loop pequenas?;int
+

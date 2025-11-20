@@ -1,0 +1,31 @@
+Estruturas de Repetição Java: Qual estrutura repete um bloco de código enquanto a condição for verdadeira?;while
+Estruturas de Repetição Java: Qual estrutura repete um bloco de código ao menos uma vez antes de testar a condição?;do-while
+Estruturas de Repetição Java: Qual estrutura repete um bloco de código por um número definido de vezes?;for
+Estruturas de Repetição Java: Como escrever um loop while?;while(condicao) {}
+Estruturas de Repetição Java: Como escrever um loop do-while?;do {} while(condicao);
+Estruturas de Repetição Java: Como escrever um loop for simples?;for(int i=0;i<n;i++) {}
+Estruturas de Repetição Java: Qual palavra-chave sai de um loop?;break
+Estruturas de Repetição Java: Qual palavra-chave pula para a próxima iteração?;continue
+Estruturas de Repetição Java: Como criar loop infinito com while?;while(true) {}
+Estruturas de Repetição Java: Como criar loop infinito com for?;for(;;) {}
+Estruturas de Repetição Java: Como incrementar uma variável no for?;i++
+Estruturas de Repetição Java: Como decrementar uma variável no for?;i--
+Estruturas de Repetição Java: Como usar múltiplas variáveis no for?;for(int i=0,j=0;i<n;i++,j++) {}
+Estruturas de Repetição Java: Como encadear loops while?;while(cond1) { while(cond2) {} }
+Estruturas de Repetição Java: Como encadear loops for?;for(...) { for(...) {} }
+Estruturas de Repetição Java: Como encadear for e while?;for(...) { while(...) {} }
+Estruturas de Repetição Java: Como sair de um loop aninhado?;Usar break com labels
+Estruturas de Repetição Java: O que é incremento pós-fixado?;variavel++
+Estruturas de Repetição Java: O que é incremento pré-fixado?;++variavel
+Estruturas de Repetição Java: Como criar loop for-each?;for(T item : colecao) {}
+Estruturas de Repetição Java: Qual loop é melhor quando se sabe o número de iterações?;for
+Estruturas de Repetição Java: Qual loop é melhor quando não se sabe o número de iterações?;while
+Estruturas de Repetição Java: Como evitar loops infinitos?;Atualizar variável de controle corretamente
+Estruturas de Repetição Java: Como usar break com switch dentro do loop?;break; dentro do switch
+Estruturas de Repetição Java: Como usar continue em for?;continue; pula para próxima iteração
+Estruturas de Repetição Java: Como usar continue em while?;continue; pula para próxima iteração
+Estruturas de Repetição Java: Como incrementar em 2 no for?;for(int i=0;i<n;i+=2) {}
+Estruturas de Repetição Java: Como decrementar em 2 no for?;for(int i=n;i>0;i-=2) {}
+Estruturas de Repetição Java: Como percorrer array com for?;for(int i=0;i<array.length;i++) {}
+Estruturas de Repetição Java: Como percorrer array com for-each?;for(T item : array) {}
+

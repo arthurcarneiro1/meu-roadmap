@@ -1,0 +1,31 @@
+Arrays e Matrizes Java: O que é um array?;Estrutura que armazena múltiplos elementos do mesmo tipo
+Arrays e Matrizes Java: Como declarar um array de inteiros?;int[] numeros;
+Arrays e Matrizes Java: Como inicializar um array com tamanho 5?;int[] numeros = new int[5];
+Arrays e Matrizes Java: Como inicializar um array com valores?;int[] numeros = {1,2,3,4,5};
+Arrays e Matrizes Java: Como acessar o primeiro elemento de um array?;numeros[0]
+Arrays e Matrizes Java: Como acessar o último elemento de um array?;numeros[numeros.length - 1]
+Arrays e Matrizes Java: Como obter o tamanho de um array?;numeros.length
+Arrays e Matrizes Java: Como percorrer um array com for?;for(int i=0;i<numeros.length;i++) {}
+Arrays e Matrizes Java: Como percorrer um array com for-each?;for(int n : numeros) {}
+Arrays e Matrizes Java: O que é uma matriz (array multidimensional)?;Array que contém outros arrays
+Arrays e Matrizes Java: Como declarar uma matriz 2x3 de inteiros?;int[][] matriz = new int[2][3];
+Arrays e Matrizes Java: Como inicializar uma matriz com valores?;int[][] matriz = {{1,2,3},{4,5,6}};
+Arrays e Matrizes Java: Como acessar elemento linha 0, coluna 1?;matriz[0][1]
+Arrays e Matrizes Java: Como percorrer matriz com loops aninhados?;for(int i=0;i<matriz.length;i++){for(int j=0;j<matriz[i].length;j++){}}
+Arrays e Matrizes Java: Como obter o número de linhas de uma matriz?;matriz.length
+Arrays e Matrizes Java: Como obter o número de colunas da primeira linha?;matriz[0].length
+Arrays e Matrizes Java: Como copiar um array?;Arrays.copyOf(array, novoTamanho)
+Arrays e Matrizes Java: Como ordenar um array?;Arrays.sort(array)
+Arrays e Matrizes Java: Como preencher array com valor padrão?;Arrays.fill(array, valor)
+Arrays e Matrizes Java: Como buscar índice de elemento em array?;Arrays.binarySearch(array, valor)
+Arrays e Matrizes Java: Qual pacote contém métodos utilitários para arrays?;java.util.Arrays
+Arrays e Matrizes Java: Como converter array para lista?;Arrays.asList(array)
+Arrays e Matrizes Java: Como converter lista para array?;lista.toArray(new Tipo[0])
+Arrays e Matrizes Java: Como verificar se dois arrays são iguais?;Arrays.equals(array1, array2)
+Arrays e Matrizes Java: Como imprimir array como string?;Arrays.toString(array)
+Arrays e Matrizes Java: Como imprimir matriz como string?;Arrays.deepToString(matriz)
+Arrays e Matrizes Java: Como criar array de Strings?;String[] nomes = new String[5];
+Arrays e Matrizes Java: Como inicializar array de Strings com valores?;String[] nomes = {"A", "B", "C"};
+Arrays e Matrizes Java: Como percorrer array de Strings com for-each?;for(String s : nomes) {}
+Arrays e Matrizes Java: Como verificar tamanho de array de Strings?;nomes.length
+

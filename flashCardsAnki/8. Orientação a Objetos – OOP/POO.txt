@@ -1,0 +1,31 @@
+Orientação a Objetos Java: O que é orientação a objetos?;Paradigma de programação baseado em objetos que possuem atributos e métodos
+Orientação a Objetos Java: O que é uma classe?;Modelo ou molde que define atributos e métodos de um objeto
+Orientação a Objetos Java: O que é um objeto?;Instância de uma classe com estado e comportamento
+Orientação a Objetos Java: O que é encapsulamento?;Proteção dos dados da classe usando modificadores de acesso
+Orientação a Objetos Java: O que é herança?;Capacidade de uma classe derivar atributos e métodos de outra
+Orientação a Objetos Java: O que é polimorfismo?;Capacidade de um objeto se comportar de diferentes formas
+Orientação a Objetos Java: O que é abstração?;Ocultar detalhes de implementação e mostrar apenas funcionalidades essenciais
+Orientação a Objetos Java: Modificadores de acesso;public, private, protected, default
+Orientação a Objetos Java: O que é construtor?;Método especial usado para inicializar objetos
+Orientação a Objetos Java: Como criar um objeto?;Classe obj = new Classe();
+Orientação a Objetos Java: O que é método?;Função definida dentro de uma classe
+Orientação a Objetos Java: O que é atributo?;Variável definida dentro de uma classe
+Orientação a Objetos Java: O que é método sobrecarregado?;Método com mesmo nome, mas diferentes parâmetros
+Orientação a Objetos Java: O que é método sobrescrito?;Método redefinido em classe filha
+Orientação a Objetos Java: Qual palavra-chave indica herança?;extends
+Orientação a Objetos Java: Qual palavra-chave indica implementação de interface?;implements
+Orientação a Objetos Java: O que é interface?;Contrato que define métodos que uma classe deve implementar
+Orientação a Objetos Java: O que é classe abstrata?;Classe que não pode ser instanciada e pode ter métodos abstratos
+Orientação a Objetos Java: Qual palavra-chave cria uma classe abstrata?;abstract
+Orientação a Objetos Java: Qual palavra-chave cria método abstrato?;abstract
+Orientação a Objetos Java: Como acessar atributos privados de uma classe?;Usando getters e setters
+Orientação a Objetos Java: O que é composição?;Incluir objetos de uma classe dentro de outra
+Orientação a Objetos Java: O que é associação?;Relacionamento entre objetos sem propriedade exclusiva
+Orientação a Objetos Java: O que é agregação?;Relacionamento entre objetos, mas um objeto pode existir sem o outro
+Orientação a Objetos Java: O que é polimorfismo em tempo de compilação?;Sobrecarga de métodos
+Orientação a Objetos Java: O que é polimorfismo em tempo de execução?;Sobrescrita de métodos
+Orientação a Objetos Java: O que é this?;Referência ao objeto atual da classe
+Orientação a Objetos Java: O que é super?;Referência à classe pai
+Orientação a Objetos Java: O que é pacote?;Agrupamento de classes relacionadas
+Orientação a Objetos Java: Como importar classes de outro pacote?;import nome.do.pacote.Classe;
+

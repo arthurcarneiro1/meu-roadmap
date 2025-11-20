@@ -1,0 +1,31 @@
+Classes Utilitárias Java: O que são classes utilitárias?;Classes que fornecem métodos prontos para tarefas comuns
+Classes Utilitárias Java: Cite uma classe utilitária para manipulação de strings.;String
+Classes Utilitárias Java: Cite uma classe utilitária para números.;Math
+Classes Utilitárias Java: Cite uma classe utilitária para manipulação de listas.;Collections
+Classes Utilitárias Java: Cite uma classe utilitária para datas.;LocalDate
+Classes Utilitárias Java: Qual método retorna o tamanho de uma string?;length()
+Classes Utilitárias Java: Qual método converte string para maiúscula?;toUpperCase()
+Classes Utilitárias Java: Qual método converte string para minúscula?;toLowerCase()
+Classes Utilitárias Java: Como concatenar strings de forma eficiente?;Usando StringBuilder
+Classes Utilitárias Java: Qual método da Math retorna o valor absoluto?;abs()
+Classes Utilitárias Java: Qual método da Math retorna o maior número entre dois valores?;max(a, b)
+Classes Utilitárias Java: Qual método da Math retorna o menor número entre dois valores?;min(a, b)
+Classes Utilitárias Java: Qual método da Math arredonda para o inteiro mais próximo?;round()
+Classes Utilitárias Java: Qual método da Math arredonda para cima?;ceil()
+Classes Utilitárias Java: Qual método da Math arredonda para baixo?;floor()
+Classes Utilitárias Java: Como gerar número aleatório?;Math.random()
+Classes Utilitárias Java: Como ordenar uma lista?;Collections.sort(lista)
+Classes Utilitárias Java: Como embaralhar uma lista?;Collections.shuffle(lista)
+Classes Utilitárias Java: Como inverter uma lista?;Collections.reverse(lista)
+Classes Utilitárias Java: Como encontrar o índice de um elemento em lista?;lista.indexOf(elemento)
+Classes Utilitárias Java: Como verificar se a lista contém um elemento?;lista.contains(elemento)
+Classes Utilitárias Java: Como copiar uma lista?;new ArrayList<>(listaOriginal)
+Classes Utilitárias Java: Como limpar uma lista?;lista.clear()
+Classes Utilitárias Java: Como verificar se uma lista está vazia?;lista.isEmpty()
+Classes Utilitárias Java: Como criar lista imutável?;List.of(elementos)
+Classes Utilitárias Java: Como converter array para lista?;Arrays.asList(array)
+Classes Utilitárias Java: Como converter lista para array?;lista.toArray(new Tipo[0])
+Classes Utilitárias Java: Qual classe utilitária para formatar datas?;DateTimeFormatter
+Classes Utilitárias Java: Como obter data atual?;LocalDate.now()
+Classes Utilitárias Java: Como obter hora atual?;LocalTime.now()
+

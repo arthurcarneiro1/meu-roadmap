@@ -1,0 +1,31 @@
+Recursos Modernos Java: O que é Java moderno?;Versões recentes do Java com recursos mais avançados e produtivos
+Recursos Modernos Java: O que são Lambdas?;Funções anônimas que simplificam código funcional
+Recursos Modernos Java: O que são Streams?;API para processamento de coleções de forma funcional
+Recursos Modernos Java: O que é Optional?;Classe para representar valor que pode estar presente ou ausente
+Recursos Modernos Java: O que são var e tipo inferido?;Palavra-chave que permite inferência de tipo em variáveis locais
+Recursos Modernos Java: O que são records?;Classe imutável com construtor, getters e equals/hashCode automáticos
+Recursos Modernos Java: O que são pattern matching?;Recurso para simplificar verificações e casts de tipos
+Recursos Modernos Java: O que são sealed classes?;Classes que restringem quais outras classes podem estender ou implementar
+Recursos Modernos Java: O que são switch expressions?;Switch que retorna valor e permite sintaxe mais concisa
+Recursos Modernos Java: O que é text block?;Strings multilinha delimitadas por """
+Recursos Modernos Java: O que são var handles?;API de baixo nível para manipulação de variáveis com concorrência
+Recursos Modernos Java: O que é enhanced instanceof?;Permite declarar variável ao verificar tipo com instanceof
+Recursos Modernos Java: O que são local interfaces e enums em métodos?;Interfaces e enums podem ser declarados dentro de métodos
+Recursos Modernos Java: O que é module system?;Sistema de módulos para organizar código e dependências
+Recursos Modernos Java: O que é JEP?;Java Enhancement Proposal, proposta de novas funcionalidades no Java
+Recursos Modernos Java: O que são default methods em interfaces?;Métodos com implementação dentro de interfaces
+Recursos Modernos Java: O que são static methods em interfaces?;Métodos estáticos dentro de interfaces
+Recursos Modernos Java: O que são private methods em interfaces?;Métodos privados para reutilização dentro da interface
+Recursos Modernos Java: O que são switch com yield?;Switch expression que usa yield para retornar valor
+Recursos Modernos Java: O que é API de Date e Time?;java.time para manipulação moderna de datas e horários
+Recursos Modernos Java: O que são CompletableFuture?;Classe para programação assíncrona e concorrente
+Recursos Modernos Java: O que são varargs?;Permitem passar número variável de argumentos a métodos
+Recursos Modernos Java: O que são functional interfaces?;Interfaces com único método abstrato usadas em programação funcional
+Recursos Modernos Java: O que são annotations modernas?;Metadados que podem influenciar comportamento do compilador ou runtime
+Recursos Modernos Java: O que são streams paralelas?;Streams que processam dados de forma paralela usando múltiplos núcleos
+Recursos Modernos Java: O que é record pattern?;Desestrutura record para extrair campos diretamente
+Recursos Modernos Java: O que são instanceof com pattern binding?;Permite vincular variável ao realizar verificação de tipo
+Recursos Modernos Java: O que é text blocks com indentation?;Strings multilinha com indentação controlada
+Recursos Modernos Java: O que são sealed interfaces?;Interfaces que limitam quais classes podem implementá-las
+Recursos Modernos Java: O que é switch com null-safe?;Switch que lida com valores nulos de forma segura
+

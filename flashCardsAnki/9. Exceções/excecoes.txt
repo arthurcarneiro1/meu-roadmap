@@ -1,0 +1,31 @@
+Exceções Java: O que é uma exceção?;Evento que ocorre durante a execução de um programa que interrompe o fluxo normal
+Exceções Java: Como capturar uma exceção?;Usando try { } catch(Exception e) { }
+Exceções Java: Qual palavra-chave é usada para lançar uma exceção?;throw
+Exceções Java: Qual palavra-chave é usada para declarar que um método pode lançar uma exceção?;throws
+Exceções Java: Qual a diferença entre checked e unchecked exceptions?;Checked são verificadas em tempo de compilação, unchecked em tempo de execução
+Exceções Java: Cite uma checked exception;IOException
+Exceções Java: Cite uma unchecked exception;ArithmeticException
+Exceções Java: O que faz o bloco finally?;Executa código independentemente de ocorrer ou não uma exceção
+Exceções Java: Como capturar múltiplas exceções?;catch(Ex1 | Ex2 e) { }
+Exceções Java: O que é NullPointerException?;Exceção lançada ao acessar um objeto nulo
+Exceções Java: O que é ArrayIndexOutOfBoundsException?;Exceção lançada ao acessar índice inválido de array
+Exceções Java: O que é ArithmeticException?;Exceção lançada em operações aritméticas inválidas, como divisão por zero
+Exceções Java: O que é ClassNotFoundException?;Exceção lançada quando a JVM não encontra a classe especificada
+Exceções Java: O que é NumberFormatException?;Exceção lançada ao tentar converter string para número inválido
+Exceções Java: O que é IllegalArgumentException?;Exceção lançada quando um método recebe argumento ilegal ou inapropriado
+Exceções Java: Como criar uma exceção personalizada?;Criar classe que estende Exception ou RuntimeException
+Exceções Java: Qual a diferença entre throw e throws?;throw lança a exceção, throws declara que o método pode lançar
+Exceções Java: O que é try-with-resources?;Estrutura para gerenciamento automático de recursos que implementam AutoCloseable
+Exceções Java: Como capturar exceção genérica?;catch(Exception e) { }
+Exceções Java: Como encadear exceções?;Usar e.initCause(ou no construtor) ou throw new Ex(e)
+Exceções Java: O que é StackTrace?;Detalhes da pilha de chamadas quando uma exceção ocorre
+Exceções Java: Qual método obtém mensagem de erro da exceção?;getMessage()
+Exceções Java: Qual método imprime a pilha de chamadas da exceção?;printStackTrace()
+Exceções Java: Como garantir execução de código após try/catch?;Usar bloco finally
+Exceções Java: O que é RuntimeException?;Exceção não verificada lançada durante execução
+Exceções Java: Como capturar todas as exceções e tratá-las?;catch(Exception e) { }
+Exceções Java: Como lançar múltiplas exceções de um método?;public void metodo() throws Ex1, Ex2 {}
+Exceções Java: Qual interface deve ser implementada para recursos automáticos?;AutoCloseable
+Exceções Java: Como criar exceção customizada que não precisa ser checada?;Estender RuntimeException
+Exceções Java: Qual bloco nunca é obrigatório?;finally
+

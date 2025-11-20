@@ -1,0 +1,31 @@
+Programação Funcional Java: O que é programação funcional?;Paradigma de programação baseado em funções e imutabilidade
+Programação Funcional Java: Cite uma característica da programação funcional.;Funções de primeira classe
+Programação Funcional Java: O que são funções de primeira classe?;Funções que podem ser atribuídas a variáveis, passadas como parâmetros ou retornadas
+Programação Funcional Java: O que é imutabilidade?;Não alterar o estado de objetos ou variáveis após criação
+Programação Funcional Java: Qual pacote contém interfaces funcionais?;java.util.function
+Programação Funcional Java: O que é interface funcional?;Interface com apenas um método abstrato
+Programação Funcional Java: Cite exemplos de interfaces funcionais.;Function, Predicate, Consumer, Supplier, UnaryOperator, BinaryOperator
+Programação Funcional Java: O que faz Function<T,R>?;Transforma um valor T em um valor R
+Programação Funcional Java: O que faz Predicate<T>?;Avalia condição e retorna boolean
+Programação Funcional Java: O que faz Consumer<T>?;Recebe T e não retorna nada
+Programação Funcional Java: O que faz Supplier<T>?;Fornece T sem receber parâmetro
+Programação Funcional Java: O que faz UnaryOperator<T>?;Recebe T e retorna T
+Programação Funcional Java: O que faz BinaryOperator<T>?;Recebe dois T e retorna um T
+Programação Funcional Java: Como criar lambda expression?;(parametros) -> expressao
+Programação Funcional Java: Como usar lambda com Function?;Function<Integer,String> f = x -> x.toString();
+Programação Funcional Java: Como usar lambda com Predicate?;Predicate<Integer> p = x -> x>0;
+Programação Funcional Java: Como usar lambda com Consumer?;Consumer<String> c = s -> System.out.println(s);
+Programação Funcional Java: Como usar lambda com Supplier?;Supplier<Double> s = () -> Math.random();
+Programação Funcional Java: Como usar lambda com UnaryOperator?;UnaryOperator<Integer> u = x -> x*2;
+Programação Funcional Java: Como usar lambda com BinaryOperator?;BinaryOperator<Integer> b = (x,y) -> x+y;
+Programação Funcional Java: Qual método de Stream aplica função a cada elemento?;map()
+Programação Funcional Java: Qual método de Stream filtra elementos?;filter()
+Programação Funcional Java: Qual método de Stream executa ação para cada elemento?;forEach()
+Programação Funcional Java: Qual método de Stream reduz elementos a um valor?;reduce()
+Programação Funcional Java: Qual método de Stream coleta elementos?;collect()
+Programação Funcional Java: Como combinar Predicates?;predicate1.and(predicate2), predicate1.or(predicate2), predicate1.negate()
+Programação Funcional Java: O que é composição de funções?;Combinar funções, usando f.andThen(g) ou f.compose(g)
+Programação Funcional Java: Como usar Optional de forma funcional?;optional.map(f).filter(p).orElse(valorPadrao)
+Programação Funcional Java: O que é currying?;Transformar função que recebe múltiplos argumentos em funções que recebem um por vez
+Programação Funcional Java: Como evitar efeitos colaterais?;Não alterar variáveis externas e usar funções puras
+

@@ -1,0 +1,32 @@
+Operadores: Qual operador é usado para adição?;+
+Operadores: Qual operador é usado para subtração?;-
+Operadores: Qual operador é usado para multiplicação?;*
+Operadores: Qual operador é usado para divisão?;/
+Operadores: Qual operador é usado para módulo (resto da divisão)?;%
+Operadores: Qual operador é usado para incremento?;++
+Operadores: Qual operador é usado para decremento?;--
+Operadores: Qual operador compara igualdade de valores?;==
+Operadores: Qual operador compara desigualdade de valores?;!=
+Operadores: Qual operador compara se é maior que?;>
+Operadores: Qual operador compara se é menor que?;<
+Operadores: Qual operador compara se é maior ou igual?;>=
+Operadores: Qual operador compara se é menor ou igual?;<=
+Operadores: Qual operador lógico E (AND)?;&&
+Operadores: Qual operador lógico OU (OR)?;||
+Operadores: Qual operador lógico NOT?;!
+Operadores: Qual operador de atribuição simples?;=
+Operadores: Qual operador de adição e atribuição?;+=
+Operadores: Qual operador de subtração e atribuição?;-=
+Operadores: Qual operador de multiplicação e atribuição?;*=
+Operadores: Qual operador de divisão e atribuição?;/=
+Operadores: Qual operador de módulo e atribuição?;%=
+Operadores: Qual operador condicional ternário?;?:
+Operadores: Qual operador para incremento pós-fixado?;variavel++
+Operadores: Qual operador para incremento pré-fixado?;++variavel
+Operadores: Qual operador bit a bit E?;&
+Operadores: Qual operador bit a bit OU?;|
+Operadores: Qual operador bit a bit XOR?;^
+Operadores: Qual operador shift à esquerda?;<<
+Operadores: Qual operador shift à direita?;>>
+Operadores: Qual operador shift à direita sem sinal?;>>>
+

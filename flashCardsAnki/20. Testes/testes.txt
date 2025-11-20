@@ -1,0 +1,31 @@
+Testes Java: O que é teste de software?;Processo de executar código para verificar se atende requisitos
+Testes Java: O que é teste unitário?;Teste de menor unidade de código, como método ou classe
+Testes Java: O que é JUnit?;Framework para escrever e executar testes unitários em Java
+Testes Java: Como criar teste com JUnit 5?;Usar @Test em método dentro de classe de teste
+Testes Java: Como verificar igualdade em JUnit?;Assertions.assertEquals(expected, actual);
+Testes Java: Como verificar verdade em JUnit?;Assertions.assertTrue(condicao);
+Testes Java: Como verificar falso em JUnit?;Assertions.assertFalse(condicao);
+Testes Java: Como verificar null em JUnit?;Assertions.assertNull(objeto);
+Testes Java: Como verificar não-null em JUnit?;Assertions.assertNotNull(objeto);
+Testes Java: Como verificar exceção em JUnit?;Assertions.assertThrows(Exception.class, () -> { /* código */ });
+Testes Java: Como executar código antes de cada teste?;Usar @BeforeEach
+Testes Java: Como executar código depois de cada teste?;Usar @AfterEach
+Testes Java: Como executar código antes de todos testes?;Usar @BeforeAll
+Testes Java: Como executar código depois de todos testes?;Usar @AfterAll
+Testes Java: O que é teste de integração?;Verifica se módulos ou sistemas funcionam corretamente em conjunto
+Testes Java: O que é teste funcional?;Verifica funcionalidades do sistema conforme requisitos
+Testes Java: O que é teste de aceitação?;Valida se sistema atende requisitos do usuário
+Testes Java: O que é mock?;Objeto simulado que imita comportamento de objetos reais
+Testes Java: Qual biblioteca popular para mocks?;Mockito
+Testes Java: Como criar mock com Mockito?;Mockito.mock(Classe.class)
+Testes Java: Como verificar interação com mock?;Mockito.verify(mock).metodo();
+Testes Java: Como definir comportamento de mock?;Mockito.when(mock.metodo()).thenReturn(valor);
+Testes Java: Como lançar exceção em mock?;Mockito.when(mock.metodo()).thenThrow(Exception.class);
+Testes Java: O que é teste de performance?;Verifica se aplicação atende requisitos de tempo de resposta
+Testes Java: O que é teste de carga?;Verifica comportamento do sistema sob alta carga
+Testes Java: O que é teste de estresse?;Verifica limites do sistema com carga extrema
+Testes Java: O que é teste de regressão?;Verifica se alterações não quebraram funcionalidades existentes
+Testes Java: O que é cobertura de teste?;Percentual de código executado durante testes
+Testes Java: Como medir cobertura de teste?;Usando ferramentas como JaCoCo
+Testes Java: Por que testes são importantes?;Garantem qualidade, reduzem bugs e facilitam manutenção
+

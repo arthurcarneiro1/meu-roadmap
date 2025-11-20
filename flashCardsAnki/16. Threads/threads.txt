@@ -1,0 +1,33 @@
+Threads Java: O que é uma thread?;Unidade de execução dentro de um processo
+Threads Java: Como criar uma thread estendendo Thread?;class MinhaThread extends Thread { public void run() {} }
+Threads Java: Como iniciar uma thread?;minhaThread.start()
+Threads Java: Como criar thread implementando Runnable?;class MinhaRunnable implements Runnable { public void run() {} }
+Threads Java: Como iniciar thread com Runnable?;new Thread(new MinhaRunnable()).start()
+Threads Java: Qual método contém código da thread?;run()
+Threads Java: O que faz o método sleep()?;Suspende a execução da thread por tempo definido
+Threads Java: O que faz o método join()?;Espera a thread terminar antes de continuar
+Threads Java: Como obter thread atual?;Thread.currentThread()
+Threads Java: Como nomear uma thread?;thread.setName("Nome")
+Threads Java: Como obter nome da thread?;thread.getName()
+Threads Java: Como definir thread como daemon?;thread.setDaemon(true)
+Threads Java: O que é thread daemon?;Thread que não impede JVM de encerrar
+Threads Java: Como verificar se thread está viva?;thread.isAlive()
+Threads Java: Como interromper thread?;thread.interrupt()
+Threads Java: O que é thread-safe?;Código que funciona corretamente quando usado por múltiplas threads
+Threads Java: Como sincronizar método?;usar synchronized
+Threads Java: Como sincronizar bloco de código?;synchronized(obj) { /* código */ }
+Threads Java: O que é lock?;Mecanismo que controla acesso de threads a recursos
+Threads Java: Qual pacote contém classes para threads?;java.lang, java.util.concurrent
+Threads Java: O que é ExecutorService?;Interface para gerenciar threads de forma abstrata
+Threads Java: Como criar pool de threads?;Executors.newFixedThreadPool(n)
+Threads Java: Como enviar tarefa para executor?;executor.submit(runnable)
+Threads Java: Como encerrar executor?;executor.shutdown()
+Threads Java: O que é Callable?;Interface como Runnable, mas retorna valor e lança exceções
+Threads Java: O que é Future?;Representa resultado de execução assíncrona
+Threads Java: Como obter resultado de Future?;future.get()
+Threads Java: Como criar thread com lambda?;new Thread(() -> { /* código */ }).start()
+Threads Java: O que é concorrência?;Execução de múltiplas tarefas ao mesmo tempo
+Threads Java: O que é paralelismo?;Execução de múltiplas tarefas simultaneamente em múltiplos núcleos
+Threads Java: O que é starvation?;Thread não recebe tempo de CPU suficiente
+Threads Java: O que é deadlock?;Situação onde threads ficam bloqueadas esperando umas pelas outras
+

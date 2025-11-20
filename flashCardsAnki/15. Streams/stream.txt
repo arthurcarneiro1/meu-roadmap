@@ -1,0 +1,32 @@
+Streams Java: O que é uma Stream?;Sequência de elementos que suporta operações agregadas e funcionais
+Streams Java: Como criar Stream a partir de coleção?;colecao.stream()
+Streams Java: Como criar Stream a partir de array?;Arrays.stream(array)
+Streams Java: O que é operação intermediária em Stream?;Operação que retorna outra Stream, como filter, map
+Streams Java: O que é operação terminal em Stream?;Operação que retorna resultado ou efeito colateral, como collect, forEach
+Streams Java: Como filtrar elementos de uma Stream?;stream.filter(condicao)
+Streams Java: Como transformar elementos de uma Stream?;stream.map(funcao)
+Streams Java: Como ordenar elementos de uma Stream?;stream.sorted()
+Streams Java: Como limitar número de elementos de uma Stream?;stream.limit(n)
+Streams Java: Como pular elementos iniciais de uma Stream?;stream.skip(n)
+Streams Java: Como remover duplicados de uma Stream?;stream.distinct()
+Streams Java: Como iterar sobre elementos de uma Stream?;stream.forEach(acao)
+Streams Java: Como coletar elementos em lista?;stream.collect(Collectors.toList())
+Streams Java: Como coletar elementos em set?;stream.collect(Collectors.toSet())
+Streams Java: Como contar elementos de uma Stream?;stream.count()
+Streams Java: Como verificar se todos elementos atendem condição?;stream.allMatch(condicao)
+Streams Java: Como verificar se algum elemento atende condição?;stream.anyMatch(condicao)
+Streams Java: Como verificar se nenhum elemento atende condição?;stream.noneMatch(condicao)
+Streams Java: Como reduzir elementos de uma Stream?;stream.reduce(identidade, operacao)
+Streams Java: Como transformar Stream em array?;stream.toArray()
+Streams Java: Como criar Stream infinita?;Stream.iterate(valorInicial, funcao)
+Streams Java: Como gerar Stream infinita de valores aleatórios?;Stream.generate(Supplier)
+Streams Java: O que é método peek?;Permite inspecionar elementos de uma Stream sem alterar
+Streams Java: Como concatenar duas Streams?;Stream.concat(stream1, stream2)
+Streams Java: Qual pacote contém Stream?;java.util.stream
+Streams Java: Como criar Stream paralelo?;stream.parallel()
+Streams Java: Como voltar Stream para sequencial?;stream.sequential()
+Streams Java: Como agrupar elementos de Stream?;collect(Collectors.groupingBy(funcao))
+Streams Java: Como somar elementos numéricos da Stream?;stream.mapToInt(funcao).sum()
+Streams Java: Como encontrar o maior elemento da Stream?;stream.max(Comparator)
+Streams Java: Como encontrar o menor elemento da Stream?;stream.min(Comparator)
+

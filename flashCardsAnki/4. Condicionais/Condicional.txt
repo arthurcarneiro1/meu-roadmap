@@ -1,0 +1,31 @@
+Condicionais Java: Qual estrutura verifica uma condição?;if
+Condicionais Java: Qual estrutura executa uma ação caso a condição seja falsa?;else
+Condicionais Java: Qual estrutura verifica múltiplas condições sequenciais?;else if
+Condicionais Java: Como escrever um if que verifica se x é maior que 10?;if(x > 10) {}
+Condicionais Java: Como escrever um else padrão?;else {}
+Condicionais Java: Qual operador lógico para E (AND)?;&&
+Condicionais Java: Qual operador lógico para OU (OR)?;||
+Condicionais Java: Qual operador lógico para NÃO (NOT)?;!
+Condicionais Java: Qual operador compara igualdade de valores?;==
+Condicionais Java: Qual operador compara desigualdade de valores?;!=
+Condicionais Java: Como criar uma estrutura switch?;switch(variavel) { case valor: break; }
+Condicionais Java: Para que serve o break no switch?;Interromper a execução do case
+Condicionais Java: Para que serve o default no switch?;Executar ação quando nenhum case corresponde
+Condicionais Java: Qual operador compara se é maior que?;>
+Condicionais Java: Qual operador compara se é menor que?;<
+Condicionais Java: Qual operador compara se é maior ou igual?;>=
+Condicionais Java: Qual operador compara se é menor ou igual?;<=
+Condicionais Java: Qual operador ternário simplifica if-else?;condicao ? valorSeVerdadeiro : valorSeFalso
+Condicionais Java: Como verificar se uma string é igual a outra?;string1.equals(string2)
+Condicionais Java: Como verificar se um objeto é null?;objeto == null
+Condicionais Java: Como negar uma condição if?;if(!condicao) {}
+Condicionais Java: Como encadear múltiplas condições if?;if(cond1 && cond2) {}
+Condicionais Java: Como criar if aninhado?;if(cond1) { if(cond2) {} }
+Condicionais Java: Qual operador lógico de curto-circuito AND?;&&
+Condicionais Java: Qual operador lógico de curto-circuito OR?;||
+Condicionais Java: Como verificar intervalo de números?;if(x >= min && x <= max) {}
+Condicionais Java: Como verificar se um número é positivo?;if(num > 0) {}
+Condicionais Java: Como verificar se um número é negativo?;if(num < 0) {}
+Condicionais Java: Como usar switch com char?;switch(caractere) { case 'a': break; }
+Condicionais Java: Como usar switch com int?;switch(numero) { case 1: break; }
+

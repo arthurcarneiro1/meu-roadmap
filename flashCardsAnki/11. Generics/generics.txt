@@ -1,0 +1,30 @@
+Generics Java: O que são Generics?;Mecanismo que permite criar classes, interfaces e métodos com tipos parametrizados
+Generics Java: Qual a vantagem de usar Generics?;Segurança de tipo em tempo de compilação e redução de casts
+Generics Java: Como declarar uma classe genérica?;class MinhaClasse<T> {}
+Generics Java: Como declarar um método genérico?;public <T> void meuMetodo(T parametro) {}
+Generics Java: Como criar lista genérica de Strings?;List<String> lista = new ArrayList<>();
+Generics Java: Como criar lista genérica de inteiros?;List<Integer> lista = new ArrayList<>();
+Generics Java: Como acessar elementos de lista genérica?;lista.get(indice)
+Generics Java: Como adicionar elementos a lista genérica?;lista.add(elemento)
+Generics Java: Como declarar múltiplos parâmetros genéricos?;class MinhaClasse<K, V> {}
+Generics Java: O que é bounded type?;Restringe o tipo genérico a subtipos de uma classe/interface
+Generics Java: Como declarar bounded type para Number?;class MinhaClasse<T extends Number> {}
+Generics Java: O que é wildcards em Generics?;Símbolo ? que representa qualquer tipo
+Generics Java: O que significa <? extends T>?;Aceita T ou qualquer subtipo de T
+Generics Java: O que significa <? super T>?;Aceita T ou qualquer supertipo de T
+Generics Java: Como declarar método com wildcard?;public void metodo(List<?> lista) {}
+Generics Java: Como garantir que método aceita apenas Number ou subclasses?;public <T extends Number> void metodo(T parametro) {}
+Generics Java: Como garantir que método aceita supertipo de Integer?;public void metodo(List<? super Integer> lista) {}
+Generics Java: Qual a diferença entre List<T> e List<?>?;T é tipo específico, ? é qualquer tipo
+Generics Java: Como criar Map genérico?;Map<K, V> map = new HashMap<>();
+Generics Java: Como percorrer Map genérico?;for(Map.Entry<K,V> entry : map.entrySet()) {}
+Generics Java: Como declarar array genérico?;Não é permitido criar diretamente, mas pode criar List<T>
+Generics Java: O que é type erasure?;Remoção das informações de tipo genérico em tempo de execução
+Generics Java: Por que usar Generics em coleções?;Evita ClassCastException e elimina casts desnecessários
+Generics Java: Como usar Generics com métodos estáticos?;public static <T> void metodo(T parametro) {}
+Generics Java: Como criar lista de elementos desconhecidos?;List<?> lista = new ArrayList<>()
+Generics Java: Qual é o limite de tipo de wildcard sem restrição?;Qualquer tipo
+Generics Java: Como usar Generics com herança?;List<? extends SuperClasse> lista
+Generics Java: Como usar Generics com interfaces?;interface MinhaInterface<T> {}
+Generics Java: Por que Generics ajudam na reutilização de código?;Permitem escrever código que funciona para múltiplos tipos
+

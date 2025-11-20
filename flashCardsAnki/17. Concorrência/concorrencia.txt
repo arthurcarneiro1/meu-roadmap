@@ -1,0 +1,32 @@
+Concorrência Java: O que é concorrência?;Execução de múltiplas tarefas que podem se sobrepor no tempo
+Concorrência Java: O que é paralelismo?;Execução de múltiplas tarefas simultaneamente em múltiplos núcleos
+Concorrência Java: O que é condição de corrida (race condition)?;Situação onde múltiplas threads acessam e modificam recurso compartilhado simultaneamente
+Concorrência Java: Como evitar condição de corrida?;Usar sincronização ou mecanismos de concorrência
+Concorrência Java: O que é deadlock?;Situação onde duas ou mais threads ficam bloqueadas esperando uma pela outra
+Concorrência Java: O que é livelock?;Threads continuam ativas mas não progridem devido a ações recíprocas
+Concorrência Java: O que é starvation?;Thread não recebe tempo de CPU suficiente para prosseguir
+Concorrência Java: O que é thread-safe?;Código que funciona corretamente quando usado por múltiplas threads
+Concorrência Java: Como tornar método thread-safe?;Usar synchronized ou classes thread-safe
+Concorrência Java: O que é synchronized?;Palavra-chave que controla acesso exclusivo a métodos ou blocos
+Concorrência Java: Como sincronizar bloco de código?;synchronized(obj) { /* código */ }
+Concorrência Java: O que é ReentrantLock?;Classe que oferece lock com mais funcionalidades que synchronized
+Concorrência Java: O que é ReadWriteLock?;Permite múltiplas threads lerem simultaneamente e escrita exclusiva
+Concorrência Java: O que é Semaphore?;Permite controlar número de threads acessando recurso
+Concorrência Java: O que é CountDownLatch?;Permite threads aguardarem até contador chegar a zero
+Concorrência Java: O que é CyclicBarrier?;Permite threads aguardarem umas às outras em ponto comum
+Concorrência Java: O que é ExecutorService?;Interface para gerenciar pool de threads
+Concorrência Java: Como criar pool fixo de threads?;Executors.newFixedThreadPool(n)
+Concorrência Java: Como criar pool de threads escalável?;Executors.newCachedThreadPool()
+Concorrência Java: Como enviar tarefa ao ExecutorService?;executor.submit(runnable)
+Concorrência Java: Como encerrar ExecutorService?;executor.shutdown()
+Concorrência Java: O que é Future?;Representa resultado de execução assíncrona
+Concorrência Java: Como obter resultado de Future?;future.get()
+Concorrência Java: O que é Callable?;Interface semelhante a Runnable, mas retorna valor e pode lançar exceções
+Concorrência Java: O que é AtomicInteger?;Classe para operações atômicas em inteiros
+Concorrência Java: O que é volatile?;Palavra-chave que garante visibilidade de variáveis entre threads
+Concorrência Java: Como criar thread com lambda?;new Thread(() -> { /* código */ }).start()
+Concorrência Java: Como evitar deadlock?;Garantir ordem consistente de aquisição de locks
+Concorrência Java: Como evitar starvation?;Usar locks justos ou prioridade adequada
+Concorrência Java: O que é ForkJoinPool?;Pool de threads para tarefas recursivas de divisão e conquista
+Concorrência Java: Qual pacote contém classes de concorrência avançada?;java.util.concurrent
+

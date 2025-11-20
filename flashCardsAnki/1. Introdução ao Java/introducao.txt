@@ -1,0 +1,31 @@
+O que é Java?;Uma linguagem de programação orientada a objetos, multiplataforma e de alto nível.
+Quem criou o Java?;A Sun Microsystems, em 1995.
+O que significa “Write Once, Run Anywhere”?;Código Java pode ser executado em qualquer plataforma sem recompilação.
+Qual máquina executa programas Java?;JVM (Java Virtual Machine).
+O que é JDK?;Java Development Kit, usado para desenvolver programas Java.
+O que é JRE?;Java Runtime Environment, usado para executar programas Java.
+Qual a diferença entre JDK e JRE?;JDK permite desenvolver e executar; JRE só executa.
+O que é bytecode?;Código intermediário gerado pelo compilador Java, executado pela JVM.
+O que é a JVM?;Máquina virtual que interpreta e executa bytecode Java.
+O que é uma classe em Java?;Estrutura que define objetos e seus comportamentos.
+O que é um objeto em Java?;Instância de uma classe que contém estado e comportamento.
+O que é método em Java?;Função dentro de uma classe que define comportamentos.
+O que é variável em Java?;Espaço de memória para armazenar valores durante a execução.
+O que é um tipo primitivo em Java?;Tipos de dados básicos, como int, double, boolean, char.
+Qual o tipo de dado para números inteiros?;int (e também byte, short, long).
+Qual o tipo de dado para números decimais?;float ou double.
+Qual o tipo de dado para verdadeiro/falso?;boolean.
+Qual o tipo de dado para caracteres?;char.
+O que é String em Java?;Classe que representa uma sequência de caracteres.
+Como imprimir no console em Java?;System.out.println("texto");
+Como comentar uma linha em Java?;Usando // comentário.
+Como comentar múltiplas linhas em Java?;Usando /* comentário */.
+O que significa OOP?;Object-Oriented Programming (Programação Orientada a Objetos).
+Quais são os pilares da OOP em Java?;Encapsulamento, Herança, Polimorfismo, Abstração.
+Como declarar o método principal em Java?;public static void main(String[] args) {}
+Para que serve o método main?;Ponto de entrada de um programa Java.
+Como declarar uma variável inteira chamada idade?;int idade;
+Como atribuir valor a uma variável?;idade = 25;
+O que é um pacote (package) em Java?;Agrupamento de classes relacionadas.
+Como importar uma classe de outro pacote?;Usando import nome.do.pacote.NomeClasse;
+

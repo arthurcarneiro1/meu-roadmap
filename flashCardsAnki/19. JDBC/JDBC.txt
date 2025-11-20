@@ -1,0 +1,32 @@
+JDBC Java: O que é JDBC?;Java Database Connectivity, API para conectar e executar consultas em bancos de dados
+JDBC Java: Qual pacote principal do JDBC?;java.sql
+JDBC Java: Como carregar driver JDBC?;Class.forName("com.mysql.cj.jdbc.Driver")
+JDBC Java: Como estabelecer conexão com banco?;DriverManager.getConnection(url, usuario, senha)
+JDBC Java: Como criar Statement?;Connection conn = ...; Statement stmt = conn.createStatement();
+JDBC Java: Como criar PreparedStatement?;PreparedStatement pstmt = conn.prepareStatement(sql);
+JDBC Java: Qual a diferença Statement e PreparedStatement?;PreparedStatement permite parâmetros e é mais seguro contra SQL Injection
+JDBC Java: Como executar consulta SELECT?;ResultSet rs = stmt.executeQuery(sql);
+JDBC Java: Como executar INSERT, UPDATE, DELETE?;int n = stmt.executeUpdate(sql);
+JDBC Java: Como percorrer ResultSet?;while(rs.next()){ rs.getTipo("coluna"); }
+JDBC Java: Como obter dados de ResultSet por nome da coluna?;rs.getString("coluna")
+JDBC Java: Como obter dados de ResultSet por índice?;rs.getInt(1)
+JDBC Java: Como fechar ResultSet e Statement?;rs.close(); stmt.close();
+JDBC Java: Como fechar conexão?;conn.close();
+JDBC Java: O que é DriverManager?;Classe para gerenciar drivers e obter conexões
+JDBC Java: Como usar transaction manual?;conn.setAutoCommit(false); conn.commit(); conn.rollback();
+JDBC Java: Como obter metadata do banco?;DatabaseMetaData dbmd = conn.getMetaData();
+JDBC Java: Como obter metadata de ResultSet?;ResultSetMetaData rsmd = rs.getMetaData();
+JDBC Java: Como usar batch update?;stmt.addBatch(sql); stmt.executeBatch();
+JDBC Java: O que é SQL Injection?;Ataque explorando entrada de usuário para alterar consultas SQL
+JDBC Java: Como evitar SQL Injection?;Usar PreparedStatement e parâmetros
+JDBC Java: Como usar CallableStatement?;CallableStatement cs = conn.prepareCall("{call procedimento(?)}");
+JDBC Java: Como obter número de linhas afetadas?;int n = stmt.executeUpdate(sql);
+JDBC Java: Como usar ResultSet tipo scrollable?;stmt = conn.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
+JDBC Java: Como mover cursor do ResultSet?;rs.first(), rs.last(), rs.next(), rs.previous()
+JDBC Java: Como obter número de colunas?;rsmd.getColumnCount()
+JDBC Java: Como obter nome da coluna?;rsmd.getColumnName(indice)
+JDBC Java: Como tratar SQLException?;try{...} catch(SQLException e){ e.printStackTrace(); }
+JDBC Java: Como obter código de erro da SQLException?;e.getErrorCode()
+JDBC Java: Como obter mensagem da SQLException?;e.getMessage()
+JDBC Java: Qual driver JDBC para MySQL?;com.mysql.cj.jdbc.Driver
+

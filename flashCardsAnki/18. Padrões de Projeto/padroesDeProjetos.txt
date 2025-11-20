@@ -1,0 +1,32 @@
+Padrões de Projetos Java: O que é padrão de projeto?;Solução reutilizável para problemas comuns de design de software
+Padrões de Projetos Java: Quais são os três tipos principais?;Criacional, Estrutural, Comportamental
+Padrões de Projetos Java: Cite um exemplo de padrão criacional.;Singleton
+Padrões de Projetos Java: Cite outro padrão criacional.;Factory Method
+Padrões de Projetos Java: O que é Singleton?;Garante que uma classe tenha apenas uma instância
+Padrões de Projetos Java: Como implementar Singleton?;private static instancia + private constructor + getInstance()
+Padrões de Projetos Java: O que é Factory Method?;Define interface para criar objeto, mas deixa subclasses decidirem a classe concreta
+Padrões de Projetos Java: O que é Abstract Factory?;Interface para criar famílias de objetos relacionados sem especificar classes concretas
+Padrões de Projetos Java: Cite um padrão estrutural.;Adapter
+Padrões de Projetos Java: O que é Adapter?;Permite que interfaces incompatíveis trabalhem juntas
+Padrões de Projetos Java: Cite outro padrão estrutural.;Decorator
+Padrões de Projetos Java: O que é Decorator?;Adiciona funcionalidades a objeto de forma dinâmica
+Padrões de Projetos Java: Cite um padrão comportamental.;Observer
+Padrões de Projetos Java: O que é Observer?;Define dependência um-para-muitos entre objetos para notificação automática
+Padrões de Projetos Java: Cite outro padrão comportamental.;Strategy
+Padrões de Projetos Java: O que é Strategy?;Define família de algoritmos intercambiáveis
+Padrões de Projetos Java: O que é Template Method?;Define esqueleto de algoritmo em método, permitindo subclasses implementarem detalhes
+Padrões de Projetos Java: O que é Command?;Encapsula requisição como objeto para parametrizar métodos e filas
+Padrões de Projetos Java: O que é Iterator?;Permite percorrer elementos de coleção sem expor estrutura interna
+Padrões de Projetos Java: O que é Composite?;Compõe objetos em estruturas de árvore para representar hierarquias todo-parte
+Padrões de Projetos Java: O que é Facade?;Fornece interface simplificada para conjunto de interfaces em subsistemas
+Padrões de Projetos Java: O que é Proxy?;Fornece representante ou substituto de outro objeto para controlar acesso
+Padrões de Projetos Java: O que é Builder?;Separa construção de objeto complexo da sua representação
+Padrões de Projetos Java: O que é Prototype?;Permite criar novos objetos clonando objetos existentes
+Padrões de Projetos Java: O que é Mediator?;Define objeto que encapsula como outros objetos interagem
+Padrões de Projetos Java: O que é Chain of Responsibility?;Passa requisições ao longo de cadeia de objetos até que alguém as trate
+Padrões de Projetos Java: O que é State?;Permite alterar comportamento de objeto quando seu estado muda
+Padrões de Projetos Java: O que é Flyweight?;Usa compartilhamento para suportar grande quantidade de objetos semelhantes
+Padrões de Projetos Java: O que é Bridge?;Desacopla abstração da implementação, permitindo variação independente
+Padrões de Projetos Java: O que é Observer vs Listener?;Listener é implementação concreta de Observer, comum em eventos GUI
+Padrões de Projetos Java: Por que usar padrões de projeto?;Promove reutilização, manutenibilidade e flexibilidade do código
+
